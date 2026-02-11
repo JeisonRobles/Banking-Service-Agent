@@ -1,5 +1,8 @@
 # 🏦 Banking Service Agent (Agentic Demo)
 
+Please feel free to read full step by step guide:
+["Building a Banking Customer‑Service Agent with RAG + Tools + SQLite"](https://medium.com/p/2518758364d8?postPublishedType=initial)
+
 A lightweight **agentic banking assistant** demo that:
 1) **Retrieves customer products** from a local SQLite DB using a Customer ID  
 2) **Consults a policy document** to answer what the customer can/can’t do with those products  
